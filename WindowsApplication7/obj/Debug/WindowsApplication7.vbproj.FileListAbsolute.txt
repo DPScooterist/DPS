@@ -1,0 +1,11 @@
+c:\users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+c:\users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+c:\users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+c:\users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+c:\users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+c:\users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+c:\users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+c:\users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+c:\users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+c:\users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\dima\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbprojResolveAssemblyReference.cache
